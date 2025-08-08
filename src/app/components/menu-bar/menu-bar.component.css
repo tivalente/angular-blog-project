@@ -2,8 +2,11 @@
 }
 
 .container__menu-bar > ul {
+  margin-top: 20px;
   display: flex;
   flex-direction: row;
+  text-align: center;
+  justify-content: center;
 }
 
 .container__menu-bar > ul > li {
